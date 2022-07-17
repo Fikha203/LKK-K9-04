@@ -71,8 +71,8 @@ public class MCM {
 
                 System.out.println("----------------------------------------------");
                 System.out.println("Apakah anda ingin memilih matriks ulang?(Y/N)");
-                perintah = input.next();
                 System.out.println("----------------------------------------------");
+                perintah = input.next();
                 
             } while(perintah.equals("Y"));
             
